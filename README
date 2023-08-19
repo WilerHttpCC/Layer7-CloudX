@@ -1,3 +1,3 @@
-By:Wiler
-CloudX+UA
-HTTP+TLS
+An attack script targeting Layer7. CloudX.js+ua.txt
+Starting conditions require ua.txt and proxy.txt
+Start command: node CloudX.js target time
