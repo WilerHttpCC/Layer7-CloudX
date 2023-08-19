@@ -1,3 +1,17 @@
 An attack script targeting Layer7. CloudX.js+ua.txt
 Starting conditions require ua.txt and proxy.txt
 Start command: node CloudX.js target time
+
+The construction method is as follows:
+
+1、npm install -g npm@9.6.4
+2、npm i events fs randomstring url  path  cluster  tls  http minimist colors
+3、npm i net http2 tls axios cli-color cluster url crypto user-agents fs header-generator fake-useragent sync-request
+4、npm i randomstring string-random random-ua
+5、npm i net http2 tls cluster url crypto user-agents fs fake-useragent header-generator
+6、npm i user-agents
+7、npm i url fs http2 http  tls  net  request cluster fake-useragent randomstring
+8、npm i  events randomstring  url path  cluster
+9、npm i playwright
+10、npm i playwright-extra fingerprint-generator fingerprint-injector ua-parser-js request  minimist  colors socks stream http2 playwright
+11、npx playwright install-deps
